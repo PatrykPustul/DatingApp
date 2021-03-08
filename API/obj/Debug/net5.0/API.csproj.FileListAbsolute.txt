@@ -80,3 +80,6 @@ C:\Users\ppust\Desktop\Kurs\DatingApp\API\bin\Debug\net5.0\runtimes\win-arm64\na
 C:\Users\ppust\Desktop\Kurs\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\ppust\Desktop\Kurs\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\ppust\Desktop\Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
