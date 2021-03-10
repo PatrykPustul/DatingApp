@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj": {}
+    "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj": {
+    "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj",
+        "projectPath": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ppust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\obj\\",
+        "outputPath": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ppust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,6 +72,10 @@
               "target": "Package",
               "version": "[5.0.3, )"
             },
+            "Microsoft.TypeScript.MSBuild": {
+              "target": "Package",
+              "version": "[4.1.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -79,6 +83,10 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[6.8.0, )"
+            },
+            "angular-spinner": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             }
           },
           "imports": [
