@@ -83,3 +83,4 @@ C:\Users\ppust\Desktop\Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\package-lock.json

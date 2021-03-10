@@ -32,7 +32,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.3",
-          "Microsoft.TypeScript.MSBuild": "4.2.2",
           "Swashbuckle.AspNetCore": "5.6.3",
           "System.IdentityModel.Tokens.Jwt": "6.8.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -753,7 +752,6 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
-      "Microsoft.TypeScript.MSBuild/4.2.2": {},
       "Microsoft.Win32.Registry/4.7.0": {
         "dependencies": {
           "System.Security.AccessControl": "4.7.0",
@@ -3456,13 +3454,6 @@
       "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
-    },
-    "Microsoft.TypeScript.MSBuild/4.2.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+yvGyjubf1RMA4y7/2u4LDPU6utp4BHSTjpJZxmAabzUcN9XldGm2CUT/ZCUIs/zOuP0Qtekj/ENl7UfrfTCzA==",
-      "path": "microsoft.typescript.msbuild/4.2.2",
-      "hashPath": "microsoft.typescript.msbuild.4.2.2.nupkg.sha512"
     },
     "Microsoft.Win32.Registry/4.7.0": {
       "type": "package",
