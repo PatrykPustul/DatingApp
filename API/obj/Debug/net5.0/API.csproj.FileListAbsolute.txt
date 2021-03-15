@@ -84,3 +84,5 @@ C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Data\UserSeedData.jso
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\package-lock.json
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Newtonsoft.Json.dll

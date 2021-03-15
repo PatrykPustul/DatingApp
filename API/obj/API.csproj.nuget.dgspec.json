@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\ppust\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ppust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.3, )"
@@ -71,10 +75,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.3, )"
-            },
-            "Microsoft.TypeScript.MSBuild": {
-              "target": "Package",
-              "version": "[4.1.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
