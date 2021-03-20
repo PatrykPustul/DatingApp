@@ -6093,11 +6093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\API.csproj",
       "packagesPath": "C:\\Users\\ppust\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\ppust\\Desktop\\Kurs\\DatingApp\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ppust\\AppData\\Roaming\\NuGet\\NuGet.Config",
