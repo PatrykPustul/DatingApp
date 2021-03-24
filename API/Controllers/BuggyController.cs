@@ -24,40 +24,40 @@ namespace API.Controllers
             return "secret text";
         }
 
-        // [HttpGet("not-found")]
-        // public ActionResult<AppUser> GetNotFound()
-        // {
+    //     [HttpGet("not-found")]
+    //     public ActionResult<AppUser> GetNotFound()
+    //     {
             
-        //     var thing = _context.Users.Find(-1);
+    //         var thing = _context.Users.Find(-1);
 
-        //     if(thing == null) return NotFound();
+    //         if(thing == null) return NotFound();
 
-        //     return Ok(thing);
-        // }
+    //         return Ok(thing);
+    //     }
 
-       //[HttpGet("server-error")]
-        // public ActionResult<string> GetServerError()
-        // {
-        //     try
-        //     {
-        //         var thing = _context.Users.Find(-1);
+    //    [HttpGet("server-error")]
+    //     public ActionResult<string> GetServerError()
+    //     {
+    //         try
+    //         {
+    //             var thing = _context.Users.Find(-1);
                 
-        //         var thingToReturn = this.ToString();
+    //             var thingToReturn = this.ToString();
 
-        //         return thingToReturn;
-        //     }
-        //     catch(Exception ex)
-        //     {
-        //         return StatusCodeResult(500, "Computer says no !");
-        //     }
+    //             return thingToReturn;
+    //         }
+    //         catch(Exception ex)
+    //         {
+    //             return StatusCodeResult(500, "Computer says no !");
+    //         }
       
-        // }
+    //     }
 
-        // [HttpGet("bad-request")]
-        // public ActionResult<string> GetBadRequest()
-        // { 
-        //     return 
-        // }
+    //     [HttpGet("bad-request")]
+    //     public ActionResult<string> GetBadRequest()
+    //     { 
+    //         return BadRequest();
+    //     }
 
        
     }
