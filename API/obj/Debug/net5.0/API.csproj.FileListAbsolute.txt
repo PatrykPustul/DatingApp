@@ -86,3 +86,8 @@ C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\AutoMapper.Extensions
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\package-lock.json
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\CloudinaryDotNet.dll
 C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ppust\Desktop\Kurs\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
